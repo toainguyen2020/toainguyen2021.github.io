@@ -121,7 +121,7 @@ a{
  margin-right: 2rem;
 }
 .list--tick{
-   list-style-image: url(../Images/tick.svg);
+   list-style-image: url(../images/tick.svg);
    padding-left: 3rem; 
    color: var(--color-headings); 
 }
@@ -326,7 +326,7 @@ transform: scale(1.1);
         position: relative;
     }
     .plan--popular .card__header::before {
-        content: url(../Images/popular.svg);
+        content: url(../images/popular.svg);
         width: 40px;
         display: inline-block;
         position: absolute;
